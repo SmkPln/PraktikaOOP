@@ -7,3 +7,5 @@
 ![Снимок экрана (483)](https://user-images.githubusercontent.com/58941205/112334757-560b6c80-8cc4-11eb-97dc-df6dd525192f.png)
 
 # 24.03.21
+## Спадкування (воно вроді спадкує, але я не знаю як "position" добавити...)
+![Снимок экрана (484)](https://user-images.githubusercontent.com/58941205/112335128-a4b90680-8cc4-11eb-9804-a3e059513be9.png)
